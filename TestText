@@ -1,2 +1,1 @@
-{ "moveSPD": 32.0, "cameraW": 4800.0, "stamConsumption": 0.025, "cameraH": 2700.0
-}
+{ "moveSPD": 32.0, "stamConsumption": 0.025, "cameraW": 6400.0, "cameraH": 3600.0 }
