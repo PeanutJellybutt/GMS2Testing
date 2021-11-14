@@ -8,9 +8,9 @@
 	"profile": {
 		"foodCollected": 10,
 		"totalXP": 0,
-		"currentLVL": 25
+		"currLVL": 25
 	},
-	"specialFood": {
+	"specFood": {
 		"foodLeft": 300
 	}
 }
