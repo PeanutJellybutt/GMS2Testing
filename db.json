@@ -10,7 +10,9 @@
 		"totalXP": 0,
 		"currLVL": 25
 	},
-	"specFood": {
-		"foodLeft": 300
-	}
+	"foodLimitation": [
+		2,
+		9999,
+		9999,
+	]
 }
