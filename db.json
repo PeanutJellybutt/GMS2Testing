@@ -10,9 +10,11 @@
 		"totalXP": 0,
 		"currLVL": 25
 	},
-	"foodLimitation": [
-		2,
-		9999,
-		9999
-	]
+	"foodLimitation": {
+		"foodCount" = [
+			2,
+			9999,
+			9999
+		]
+	}
 }
