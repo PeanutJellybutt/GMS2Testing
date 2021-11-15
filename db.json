@@ -12,8 +12,8 @@
 	},
 	"foodLimitation": {
 		"foodCount": [
-			2,
 			9999,
+			300,
 			9999
 		]
 	}
