@@ -2,7 +2,7 @@
 	"config": {
 		"useLocalTime": 1.0,
 		"moveSPD": 16.0,
-		"stamConsumption": 0.025,
+		"stamConsumption": 25,
 		"cameraW": 2048.0,
 		"cameraH": 1152.0
 	},
