@@ -4,7 +4,9 @@
 		"moveSPD": 16.0,
 		"stamConsumption": 25,
 		"cameraW": 1920.0,
-		"cameraH": 1080.0
+		"cameraH": 1080.0,
+		"disableTimer": false,
+		"disableStamina": false
 	},
 	"profile": {
 		"foodCollected": 10,
