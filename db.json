@@ -5,8 +5,8 @@
 		"stamConsumption": 25,
 		"cameraW": 1920.0,
 		"cameraH": 1080.0,
-		"disableTimer": false,
-		"disableStamina": false
+		"disableTimer": 0,
+		"disableStamina": 0
 	},
 	"profile": {
 		"foodCollected": 10,
