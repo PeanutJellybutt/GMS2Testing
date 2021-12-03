@@ -1,6 +1,6 @@
 {
 	"config": {
-		"useLocalTime": 0,
+		"useLocalTime": 1,
 		"moveSPD": 16,
 		"stamConsumption": 25,
 		"cameraW": 1920,
