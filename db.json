@@ -3,8 +3,8 @@
 		"useLocalTime": 1,
 		"moveSPD": 16,
 		"stamConsumption": 25,
-		"cameraW": 3840,
-		"cameraH": 2160
+		"cameraW": 640,
+		"cameraH": 360
 	},
 	"profile": {
 		"foodCollected": 10,
