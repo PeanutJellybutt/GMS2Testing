@@ -1,10 +1,10 @@
 {
 	"config": {
 		"useLocalTime": 1,
-		"moveSPD": 16,
+		"moveSPD": 8,
 		"stamConsumption": 25,
-		"cameraW": 3840,
-		"cameraH": 2160
+		"cameraW": 1920,
+		"cameraH": 1080
 	},
 	"profile": {
 		"foodCollected": 10,
